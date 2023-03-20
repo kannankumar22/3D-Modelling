@@ -4,7 +4,7 @@
 3D models are made within computer-based 3D modelling software, which we'll explore a little later.
 During the 3D modelling process, an object's size, shape, and texture can be determined.
 
-I have done 3D models starting from basic level to intermediate level...
+I have done 3D models starting from basic level to intermediate level.
 
 ![Final Task](https://user-images.githubusercontent.com/109935309/226095872-090cd2ee-536a-4a9f-a893-724516ff173e.png)
 
