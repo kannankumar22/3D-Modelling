@@ -1,5 +1,5 @@
 # 3D-Modelling
-
+ 
 3D modelling is the process of creating three-dimensional representations of an object or a surface. 
 3D models are made within computer-based 3D modelling software, which we'll explore a little later.
 During the 3D modelling process, an object's size, shape, and texture can be determined.
