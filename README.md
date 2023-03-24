@@ -10,4 +10,4 @@ I have done 3D models starting from basic level to intermediate level.
 
 ![Texture](https://user-images.githubusercontent.com/109935309/226095888-522e22e4-2af2-438d-91a9-4768469eeea3.png)             
                        
- 
+  
